@@ -1,0 +1,40 @@
+{
+    "gadgets": [
+        {	
+            "url": "",
+            "remark": ""
+        }
+    ],
+    "settings": {
+    	"label":"",
+        "url": "",
+        "remark": ""
+    },
+    "website": {
+        "home": {
+        	"label":"",
+            "url": "",
+            "remark": ""
+        },
+        "discuss": {
+        	"label":"",
+            "url": "",
+            "remark": ""
+        },
+        "github": {
+        	"label":"",
+            "url": "",
+            "remark": ""
+        }
+    },
+    "download": {
+    	"label":"",
+        "url": "",
+        "remark": ""
+    },
+    "donate": {
+    	"label":"",
+        "url": "",
+        "remark": ""
+    }
+}
