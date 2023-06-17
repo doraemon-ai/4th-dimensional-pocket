@@ -1,0 +1,40 @@
+{
+    "gadgets": [
+        {	
+            "url": "",
+            "remark": ""
+        }
+    ],
+    "settings": {
+    	"label":"高级设置",
+        "url": "",
+        "remark": "设置模块的微应用地址"
+    },
+    "website": {
+        "home": {
+        	"label":"网站",
+            "url": "https://github.com/kaleai/doraemon",
+            "remark": "官网首页"
+        },
+        "discuss": {
+        	"label":"讨论与反馈",
+            "url": "https://github.com/kaleai/doraemon/issues",
+            "remark": "讨论区地址"
+        },
+        "github": {
+        	"label":"github",
+            "url": "https://github.com/kaleai/doraemon",
+            "remark": "github地址"
+        }
+    },
+    "download": {
+    	"label":"",
+        "url": "",
+        "remark": "app或其他软件的下载地址"
+    },
+    "donate": {
+    	"label":"",
+        "url": "",
+        "remark": "支付与捐赠地址"
+    }
+}
