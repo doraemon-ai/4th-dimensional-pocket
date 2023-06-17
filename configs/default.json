@@ -6,9 +6,9 @@
         }
     ],
     "settings": {
-    	"label":"",
+    	"label":"高级设置",
         "url": "",
-        "remark": ""
+        "remark": "设置模块的微应用地址"
     },
     "website": {
         "home": {
@@ -22,9 +22,9 @@
             "remark": ""
         },
         "github": {
-        	"label":"",
-            "url": "",
-            "remark": ""
+        	"label":"github",
+            "url": "https://github.com/kaleai/doraemon",
+            "remark": "github地址"
         }
     },
     "download": {
