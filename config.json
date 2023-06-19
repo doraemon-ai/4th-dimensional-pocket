@@ -7,7 +7,7 @@
     ],
     "settings": {
     	"label":"高级设置",
-        "url": "",
+        "url": "settings-module.4everland.app",
         "remark": "设置模块的微应用地址"
     },
     "website": {
