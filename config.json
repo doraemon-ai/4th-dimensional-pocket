@@ -28,13 +28,13 @@
         }
     },
     "download":{
-        "label":"",
+        "label":"下载APP",
         "url":"",
-        "remark":"app或其他软件的下载地址"
+        "remark":"app或其他软件的下载地址，如果没有这个对象则不会展示该模块"
     },
     "donate":{
-        "label":"",
+        "label":"捐赠",
         "url":"",
-        "remark":"支付与捐赠地址"
+        "remark":"支付与捐赠地址，如果没有这个对象则不会展示该模块"
     }
 }
