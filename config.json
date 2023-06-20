@@ -2,11 +2,11 @@
     "gadgets":[
         {
             "url":"https://gadget-template.4everland.app",
-            "remark": "道具的模板工程"
+            "remark":"道具的模板工程"
         },
         {
-            "url": "https://regular-gadget.4everland.app",
-            "remark": "正则提取"
+            "url":"https://regular-gadget.4everland.app",
+            "remark":"正则提取"
         }
     ],
     "settings":{
