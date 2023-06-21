@@ -1,5 +1,5 @@
 {
-    "title": "Doreamon01",
+    "title": "Doreamon",
     "gadgets":[
         {
             "url":"https://gadget-template.4everland.app",
@@ -7,39 +7,39 @@
         },
         {
             "url":"https://regular-gadget.4everland.app",
-            "remark":"正则提取"
+            "remark":"正则提取的道具"
         }
     ],
     "settings":{
         "label":"高级设置",
         "url":"https://doraemon-settings.4everland.app",
-        "remark":"设置模块的微应用地址。如果没有这个对象则不会展示该模块"
+        "remark":"设置模块的微应用地址。如果没有这个对象则不会展示对应入口"
     },
     "website":{
         "home":{
             "label":"网站",
             "url":"https://github.com/kaleai/doraemon",
-            "remark":"官网首页"
+            "remark":"官网首页。如果没有这个对象则不会展示对应入口"
         },
         "discuss":{
             "label":"讨论与反馈",
             "url":"https://github.com/kaleai/doraemon/issues",
-            "remark":"讨论区地址"
+            "remark":"讨论区地址。如果没有这个对象则不会展示对应入口"
         },
         "github":{
             "label":"github",
             "url":"https://github.com/kaleai/doraemon",
-            "remark":"github地址"
+            "remark":"github地址。如果没有这个对象则不会展示对应入口"
         }
     },
     "download":{
         "label":"APP",
-        "url":"",
-        "remark":"app或其他软件的下载地址。如果没有这个对象则不会展示该模块"
+        "url": "",
+        "remark":"app或其他软件的下载地址。如果没有这个对象则不会展示对应入口"
     },
     "donate":{
         "label":"捐赠",
         "url":"",
-        "remark":"支付与捐赠地址。如果没有这个对象则不会展示该模块"
+        "remark":"支付与捐赠地址。如果没有这个对象则不会展示对应入口。如果有对象，但没有url则展示默认配置"
     }
 }
