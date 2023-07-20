@@ -12,7 +12,7 @@
     ],
     "settings":{
         "label":"高级设置",
-        "url":"https://doraemon-settings.netlify.app",
+        "url":"https://doraemon-settings.vercel.app",
         "remark":"设置模块的微应用地址。如果没有这个对象则不会展示对应入口"
     },
     "website":{
