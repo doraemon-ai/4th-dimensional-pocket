@@ -2,11 +2,11 @@
     "title": "Doraemon",
     "gadgets":[
         {
-            "url":"https://doraemon-gadget-template.netlify.app",
+            "url":"https://doraemon-gadget-template.vercel.app",
             "remark":"魔法道具的模板，是一个示例工程"
         },
         {
-            "url":"https://doraemon-regular-gadget.netlify.app",
+            "url":"https://doraemon-regular-gadget.vercel.app",
             "remark":"正则提取的道具"
         }
     ],
