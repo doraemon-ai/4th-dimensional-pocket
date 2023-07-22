@@ -1,0 +1,8 @@
+{
+    "agent_output": [
+        "\\d+\n"
+    ],
+    "agent_reasoning": [
+        "\n1. The HIGHLIGHTs consist only of numbers.\n2. The numbers are consecutive.\n"
+    ]
+}
